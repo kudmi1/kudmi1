@@ -8,11 +8,7 @@
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 </div>
-<h3>Contact me: 
-  <a href="https://t.me/Kudmi">Telegram<a/> / 
-  <a href="mailto:dimarull00@gmail.com">Gmail<a/>
-</h3>
-     
+
 [![Gmail Badge](https://img.shields.io/badge/-dimarull00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dimarull00@gmail.com)](mailto:dimarull00@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Kudmi-blue?style=flat&logo=Telegram&logoColor=white&colorA-white)](https://t.me/Kudmi)
 
