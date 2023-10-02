@@ -2,16 +2,13 @@
    <img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" style="width: 100%; height: 150px;/>
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-kanna6501-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@aemmadi/)](https://medium.com/@aemmadi)
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 
 <br/>
 <div style="margin-top: 150px"> 
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
+</div>
 <h3>Contact me: 
   <a href="https://t.me/Kudmi">Telegram<a/> / 
   <a href="mailto:dimarull00@gmail.com">Gmail<a/>
@@ -121,4 +118,3 @@
   </tr>
 </table>
 <h4>I am currently learning NEXT JS.</h4>
-</div>
