@@ -1,7 +1,9 @@
 <a href="https://github.com/kudmi1" align="center">
    <img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" style="width: 100%; height: 150px;/>
 </a>
-      
+
+<br/>
+
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
