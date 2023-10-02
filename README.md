@@ -52,7 +52,7 @@
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#kudmi-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
+        <img src="https://api.iconify.design/devicon:github-wordmark.svg" width="36" height="36" alt="github" />
       </a>
       <br/>github
     </td>
