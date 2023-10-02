@@ -3,7 +3,7 @@
 </a>
 
 <br/>
-<div> 
+<div style="margin-top: 150px"> 
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
