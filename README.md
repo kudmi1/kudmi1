@@ -51,6 +51,12 @@
       <br/>npm
     </td>
     <td align="center" width="110" height="90"> 
+      <a href="#kudmi-stack">
+        <img src="https://api.iconify.design/vscode-icons:file-type-pnpm.svg" width="36" height="36" alt="npm" />
+      </a>
+      <br/>pnpm
+    </td>
+    <td align="center" width="110" height="90"> 
       <a href="#kudmi-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
       </a>
