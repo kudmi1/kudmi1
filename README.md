@@ -8,10 +8,6 @@
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 </div>
-<h3>Contacts</h4>
-
-[![Gmail Badge](https://img.shields.io/badge/-dimarull00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dimarull00@gmail.com)](mailto:dimarull00@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Kudmi-blue?style=flat&logo=Telegram&logoColor=white&colorA-white)](https://t.me/Kudmi)
 
 <h2 align="left" id="kudmi-stack">Tech stack</h2>
 
@@ -118,3 +114,7 @@
   </tr>
 </table>
 <h4>I am currently learning NEXT JS.</h4>
+<h3>Contacts</h4>
+
+[![Gmail Badge](https://img.shields.io/badge/-dimarull00@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dimarull00@gmail.com)](mailto:dimarull00@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Kudmi-blue?style=flat&logo=Telegram&logoColor=white&colorA-white)](https://t.me/Kudmi)
