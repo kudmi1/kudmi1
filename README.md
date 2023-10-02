@@ -44,7 +44,6 @@
       </a>
       <br/>git
     </td>
-    
     <td align="center" width="110" height="90"> 
       <a href="#kudmi-stack">
         <img src="https://br/andeps.com/icon-download/N/Npm-icon-vector-05.svg" width="36" height="36" alt="npm" />
