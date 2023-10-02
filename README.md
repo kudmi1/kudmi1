@@ -2,9 +2,11 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JS, TS, React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<h2 align="left" id="debabin-stack">Tech stack</h2>
+- 📫 How to reach me ...
+<h1>Hello. I'm Dmitriy Kushchyk</h1>
+<h2>Frontend developer.</h2>
+<h2 align="left" id="kudmi-stack">Tech stack</h2>
 
 <table width='100%'>
   <tr>
