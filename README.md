@@ -50,12 +50,6 @@
       </a>
       <br/>npm
     </td>
-     <td align="center" width="110" height="90"> 
-      <a href="#kudmi-stack" >
-        <img src="https://api.iconify.design/devicon:github-wordmark.svg" width="36" height="36" alt="github" />
-      </a>
-      <br/>github
-    </td>
     <td align="center" width="110" height="90"> 
       <a href="#kudmi-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="36" height="36" alt="docker" />
