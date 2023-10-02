@@ -1,4 +1,4 @@
-<a href="https://github.com/kudmi1" style="overflow: hidden;">
+<a href="https://github.com/kudmi1" height="150">
   <img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" align="center" style="background-position: contain; width: 100%; height: 150px; z-index: -20; />
 </a>
     
