@@ -6,6 +6,7 @@
 <div style="margin-top: 150px"> 
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:dhruvjainpenny@gmail.com)
 <h3>Contact me: 
   <a href="https://t.me/Kudmi">Telegram<a/> / 
   <a href="mailto:dimarull00@gmail.com">Gmail<a/>
