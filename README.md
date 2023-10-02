@@ -13,7 +13,7 @@
   <a href="mailto:dimarull00@gmail.com">Gmail<a/>
 </h3>
      
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimarull00@gmail.com)](mailto:dimarull00@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dimarull00@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dimarull00@gmail.com)](mailto:dimarull00@gmail.com)
 
 <h2 align="left" id="kudmi-stack">Tech stack</h2>
 
