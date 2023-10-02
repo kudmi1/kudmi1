@@ -1,7 +1,5 @@
-<a href="https://github.com/kudmi1" height="150">
-  <img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" align="center" style="background-position: contain; width: 100%; height: 150px; z-index: -20; />
-</a>
-    
+<img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" align="center" style="background-position: contain; width: 100%; height: 150px; z-index: -20; />
+   
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
