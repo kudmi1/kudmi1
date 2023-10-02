@@ -100,6 +100,18 @@
       </a>
       <br>MongoDB
     </td>
+     <td align="center" width="110" height="90"> 
+      <a href="#kudmi-stack" >
+        <img src="https://brandeps.com/icon-download/J/Jest-icon-vector-02.svg" width="36" height="36" alt="Jest" />
+      </a>
+      <br>Jest
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#kudmi-stack">
+        <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
+      </a>
+      <br>React Test
+    </td>
   </tr>
 </table>
 <h4>I am currently learning NEXT JS.</h4>
