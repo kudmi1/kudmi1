@@ -1,10 +1,9 @@
 <a href="https://github.com/kudmi1" align="center">
    <img src="https://i.ibb.co/HtxTB8f/firefox-li-ZYJGRPv-K.png" alt="banner-image" style="width: 100%; height: 150px;/>
 </a>
-
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-
+      
 <br/>
+
 <div style="margin-top: 150px"> 
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
@@ -13,6 +12,7 @@
   <a href="https://t.me/Kudmi">Telegram<a/> / 
   <a href="mailto:dimarull00@gmail.com">Gmail<a/>
 </h3>
+[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
 <h2 align="left" id="kudmi-stack">Tech stack</h2>
 
 <table width='100%'>
