@@ -1,3 +1,7 @@
+<a href="https://github.com/kudmi1">
+  <img src="[https://user-images.githubusercontent.com/45297354/149384539-9edfa509-2810-4575-bf93-f35ce1bc5b4c.png](https://free4kwallpapers.com/uploads/wallpaper/anime-scenery-art-wallpaper-1920x1080-wallpaper.jpg)" alt="banner-image"
+      siberiacancode" align="center"/>
+</a>
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
