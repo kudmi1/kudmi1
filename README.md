@@ -82,6 +82,12 @@
       </a>
       <br>Tailwind
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
+      </a>
+      <br>MongoDB
+    </td>
   </tr>
 </table>
 
