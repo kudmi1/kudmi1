@@ -1,6 +1,7 @@
 <a href="https://github.com/kudmi1" style="overflow: hidden;">
-  <img src="https://free4kwallpapers.com/uploads/wallpaper/anime-scenery-art-wallpaper-1920x1080-wallpaper.jpg" alt="banner-image" align="center" style="background-position: cover; width: 100%; height: 150px; />
+  <img src="https://free4kwallpapers.com/uploads/wallpaper/anime-scenery-art-wallpaper-1920x1080-wallpaper.jpg" alt="banner-image" align="center" style="background-position: cover; width: 100%; height: 150px; z-index: -20; />
 </a>
+    
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
