@@ -56,6 +56,26 @@
       </a>
       <br/>docker
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+      </a>
+      <br>React JS
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#debabin-stack" >
+        <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
+      </a>
+      <br>Vite
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#debabin-stack">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
+      </a>
+      <br>Tailwind
+    </td>
+  </tr>
 </table>
 
