@@ -3,7 +3,7 @@
 </a>
 
 <br/>
-
+<div> 
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h3>Contact me: 
@@ -103,3 +103,4 @@
   </tr>
 </table>
 <h4>I am currently learning NEXT JS.</h4>
+</div>
