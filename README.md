@@ -1,6 +1,9 @@
 <h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
-<h3>Contact me: <a href="[t.me/](https://t.me/Kudmi)"><a/><a href="mailto:dimarull00@gmail.com"><a/> </h3>
+<h3>Contact me: 
+  <a href="https://t.me/Kudmi"><img src="https://api.iconify.design/ic:baseline-telegram.svg" alt="telegram"/><a/>
+  <a href="mailto:dimarull00@gmail.com"><img src="(https://api.iconify.design/mdi:gmail.svg" alt="gmail"/><a/> 
+</h3>
 <h2 align="left" id="kudmi-stack">Tech stack</h2>
 
 <table width='100%'>
