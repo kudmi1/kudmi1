@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kudmi1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning JS, TS, React
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
-<h1>Hello. I'm Dmitriy Kushchyk</h1>
+<h1>Hello. I'm Dmitriy Kushchyk👋</h1>
 <h2>Frontend developer.</h2>
 <h2 align="left" id="kudmi-stack">Tech stack</h2>
 
@@ -67,31 +61,31 @@
   </tr>
   <tr>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#kudmi-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
       </a>
       <br>React JS
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#kudmi-stack" >
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack">
+      <a href="#kudmi-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#kudmi-stack" >
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#kudmi-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
